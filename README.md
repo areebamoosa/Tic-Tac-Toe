@@ -21,3 +21,5 @@ The game allows two players to take turns marking ❌ and ⭕ on a 3×3 grid. It
 ## Note
 
 - Built for desktop — responsiveness not included.
+
+### Live Demo: https://areebamoosa.github.io/Tic-Tac-Toe/ 
